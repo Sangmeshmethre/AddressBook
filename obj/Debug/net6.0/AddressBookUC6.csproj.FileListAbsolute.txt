@@ -1,0 +1,15 @@
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\bin\Debug\net6.0\AddressBookUC6.exe
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\bin\Debug\net6.0\AddressBookUC6.deps.json
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\bin\Debug\net6.0\AddressBookUC6.runtimeconfig.json
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\bin\Debug\net6.0\AddressBookUC6.dll
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\bin\Debug\net6.0\AddressBookUC6.pdb
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.csproj.AssemblyReference.cache
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.AssemblyInfoInputs.cache
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.AssemblyInfo.cs
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.csproj.CoreCompileInputs.cache
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.dll
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\refint\AddressBookUC6.dll
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.pdb
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\AddressBookUC6.genruntimeconfig.cache
+D:\RFP-240\AddressBook\AddressBookUC6\AddressBookUC6\obj\Debug\net6.0\ref\AddressBookUC6.dll
